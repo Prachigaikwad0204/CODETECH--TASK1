@@ -9,4 +9,4 @@
 
 #### Project: Student Grade
 
-![Output:- Task_1]()
+![Output:- Task_1](TASK-1 OUTPUT.png)
