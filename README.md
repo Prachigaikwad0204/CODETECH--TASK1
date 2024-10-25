@@ -7,6 +7,6 @@
 
 # Overview of the Project
 
-#### Project: Student Grade
+#### Project: Student Grade Tracker
 
-![Output:- Task_1](TASK-1 OUTPUT.png)
+![Output:- Task_1](TASK-1OUTPUT.png)
